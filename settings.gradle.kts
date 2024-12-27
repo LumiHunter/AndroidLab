@@ -23,3 +23,4 @@ rootProject.name = "AndroidLab"
 include(":app")
 include(":lab3")
 include(":lab4")
+include(":lab5")

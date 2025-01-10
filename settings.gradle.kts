@@ -21,7 +21,7 @@ dependencyResolutionManagement {
 
 rootProject.name = "AndroidLab"
 include(":app")
-include(":lab3")
-include(":lab4")
-include(":lab5")
-include(":lab6")
+include(":kotiln-basic")
+include(":kotlin-oop")
+include(":kotlin-utility")
+include(":view-composition")
